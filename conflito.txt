@@ -1,1 +1,2 @@
 Criando um conflito
+Editando a mesma linha em outra branch
