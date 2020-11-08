@@ -1,2 +1,3 @@
 Criando um conflito
-Editando a mesma linha em outra branch
+Linha alterada em ambas as branches
+Linha que dará conflito
