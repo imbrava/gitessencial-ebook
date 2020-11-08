@@ -1,0 +1,2 @@
+Criando um conflito
+Linha que dará conflito
